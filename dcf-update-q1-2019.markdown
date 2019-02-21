@@ -140,4 +140,4 @@ Old discount = (share price of $1,670.43): -73.6%
 | NYSE:V        | Visa      | -55.6%              | -12.2%              | 43.3%      |
 
 ### Feedback
-For any questions or feedback on these changes email us at: info@simplywallst.com
+For any questions or feedback on these changes email us at: analysis@simplywallst.com
